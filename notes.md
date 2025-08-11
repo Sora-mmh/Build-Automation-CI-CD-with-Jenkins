@@ -236,8 +236,8 @@ resources/
 
 ## 13. Webhooks & Auto-Triggers
 
-- Install **GitLab Build Trigger** plugin.
-- Configure GitLab -> Jenkins integration (under Integrations/Webhooks).
+- Install **GitLab/Github Build Trigger** plugin.
+- Configure GitLab/Github -> Jenkins integration (under Integrations/Webhooks).
 - For multibranch: **Multibranch Scan Webhook Trigger** plugin; configure webhook URL with token.
 
 ***
