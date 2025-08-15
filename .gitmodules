@@ -1,6 +1,6 @@
 [submodule "jenkins-projs"]
 	path = jenkins-projs
-	url = https://github.com/Sora-mmh/automation-with-jenkins.git
+	url = https://github.com/Sora-mmh/jenkins-projs.git
 [submodule "jenkins-shared-library"]
 	path = jenkins-shared-library
 	url = https://github.com/Sora-mmh/jenkins-shared-library.git
