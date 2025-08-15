@@ -50,6 +50,6 @@ The listed projects in this module cover:
 ---
 
 ### **7. Automated Triggers & Versioning**
-- Installed **GitHub/GitLab webhooks** so every push triggers the pipeline.
+- Installed **GitHub webhooks** so every push triggers the pipeline.
 - Used the **Maven Build-Helper plugin** to **increment versions** automatically.
 - Committed the **new version back to Git** from within Jenkins while **skipping webhook loops**.
